@@ -56,7 +56,7 @@ body {
   font-size: 2.5rem;
 }
 
-@media (max-width: 655px) {
+@media (max-width: 765px) {
   .calculator-grid {
       display: grid;
       margin-top: 2rem;
